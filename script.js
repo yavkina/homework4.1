@@ -16,7 +16,7 @@ function declineMyName (number, myName) {
         result = myName [2];
     }
 }
-return result;
+  return result;
 }
 
 
