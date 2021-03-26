@@ -15,9 +15,9 @@ function declineMyName (number, myName) {
     } else {
         result = myName [2];
     }
-}
+  }
   return result;
-}
+  }
 
 
 console.log (declineMyName(number,['Настя', 'Насти', 'Насть']) );
